@@ -1,0 +1,2 @@
+n1 = int(input("\033[31mDigite um número para saber seu antecessor: "))
+print(f"Analisando o número \033[30;1m{n1}\033[31m o seu sucessor é \033[34;1m{n1+1}\033[31m e seu antecessor é \033[34;1m{n1-1}")
